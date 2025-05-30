@@ -1,2 +1,2 @@
-# C-projects-
-A collection of my C exercices and learning projects
+# python-projects-
+A collection of my beginner-level python exercices and learning journey, İ am just getting started and exploring the basics of python progtamming.

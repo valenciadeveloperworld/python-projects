@@ -25,4 +25,8 @@ gpa = 3.5
 print(f"The price is $ {price}")
 print(f"I beleive that my gpa will be {gpa} at the end of the university")
 
+#BOOLEAN(just 2 options: true or false)
+is_student = True 
+
+print(f"Are you a student?: {is_student}")
 

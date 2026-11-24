@@ -19,3 +19,10 @@ print(f"you are buyying {quantity} items")
 print(f"there are {num_of_Students} in your class!")
 
 
+#FLOAT
+price= 3.6
+gpa = 3.5
+print(f"The price is $ {price}")
+print(f"I beleive that my gpa will be {gpa} at the end of the university")
+
+
